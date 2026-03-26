@@ -39,7 +39,9 @@
     "material": ["PVC", "ABS"],
     "status": "Available",
     "release_date": "2025-09-20",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+    ],
     "tags": ["family", "spy", "bundle-deal"]
   },
   {
@@ -59,7 +61,11 @@
     "material": ["PVC"],
     "status": "Available",
     "release_date": "2024-08-05",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/",
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/",
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+    ],
     "tags": ["tokyo-jujutsu-high", "shonen", "trio"]
   },
   {
@@ -79,7 +85,10 @@
     "material": ["PVC", "Electronic Components"],
     "status": "Pre-order",
     "release_date": "2026-02-14",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/",
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+    ],
     "tags": ["sci-fi", "ai-assistant", "cultivator"]
   },
   {
@@ -99,7 +108,10 @@
     "material": ["PVC", "ABS"],
     "status": "Pre-order",
     "release_date": "2026-07-25",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/",
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+    ],
     "tags": ["knight", "assassin", "romance"]
   },
   {
@@ -119,7 +131,9 @@
     "material": ["PVC", "Clear Resin"],
     "status": "Available",
     "release_date": "2025-01-10",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+    ],
     "tags": ["strongest", "domain", "shonen"]
   },
   {
@@ -139,7 +153,10 @@
     "material": ["PVC", "ABS", "Metal Parts"],
     "status": "Pre-order",
     "release_date": "2026-12-01",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/",
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+    ],
     "tags": ["soul-land", "tang-san", "shrek-seven"]
   },
   {
@@ -159,7 +176,9 @@
     "material": ["Polystone", "Alloy"],
     "status": "Unavailable",
     "release_date": "2025-05-20",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+    ],
     "tags": ["monster", "sci-fi", "swallowed-star"]
   },
   {
@@ -179,7 +198,10 @@
     "material": ["PVC"],
     "status": "Available",
     "release_date": "2024-11-30",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/",
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+    ],
     "tags": ["time-travel", "urban-fantasy", "duo"]
   },
   {
@@ -199,7 +221,9 @@
     "material": ["Resin", "PVC"],
     "status": "Available",
     "release_date": "2025-08-15",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+    ],
     "tags": ["misty-cloud", "waifu", "btth"]
   },
   {
@@ -219,7 +243,10 @@
     "material": ["PVC"],
     "status": "Pre-order",
     "release_date": "2026-04-10",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/",
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+    ],
     "tags": ["wasteland", "childhood", "funny"]
   },
   {
@@ -239,7 +266,9 @@
     "material": ["PVC"],
     "status": "Available",
     "release_date": "2024-02-14",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+    ],
     "tags": ["meme", "anya", "cute"]
   },
   {
@@ -258,7 +287,9 @@
     "material": ["Polystone"],
     "status": "Unavailable",
     "release_date": "2025-06-01",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+    ],
     "tags": ["dark-xianxia", "slaughter", "cultivation"]
   },
   {
@@ -278,7 +309,10 @@
     "material": ["PVC", "ABS"],
     "status": "Available",
     "release_date": "2025-03-25",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/",
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+    ],
     "tags": ["sukuna", "curse", "shonen"]
   },
   {
@@ -298,7 +332,9 @@
     "material": ["PVC", "ABS"],
     "status": "Available",
     "release_date": "2025-12-15",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+    ],
     "tags": ["rival", "sword", "btth"]
   },
   {
@@ -318,7 +354,9 @@
     "material": ["Zinc Alloy", "Electronics"],
     "status": "Pre-order",
     "release_date": "2026-08-30",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+    ],
     "tags": ["throne", "useful", "collector"]
   },
   {
@@ -338,7 +376,9 @@
     "material": ["PVC"],
     "status": "Available",
     "release_date": "2025-07-04",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+    ],
     "tags": ["waifu", "assassin", "dual-pose"]
   },
   {
@@ -358,7 +398,9 @@
     "material": ["Stainless Steel"],
     "status": "Available",
     "release_date": "2024-09-10",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+    ],
     "tags": ["weapons", "metal", "swallowed-star"]
   },
   {
@@ -378,7 +420,9 @@
     "material": ["PVC"],
     "status": "Available",
     "release_date": "2024-05-18",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+    ],
     "tags": ["resonance", "shonen", "nobara"]
   },
   {
@@ -398,7 +442,9 @@
     "material": ["PVC", "ABS"],
     "status": "Available",
     "release_date": "2025-02-14",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+    ],
     "tags": ["soul-land", "waifu", "bunny"]
   }
 ]

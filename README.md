@@ -43,6 +43,25 @@ The [`index.json`](index.json) file contains an array of product objects. Below 
 
 <br>
 
+#### 🖼️ Asset Deployment: The "GitHub-as-a-CDN" Cheat
+
+> [!Note]
+> **Key Rule for images**: Use the **Raw** URL format.
+>
+> Example Link:
+> [https://raw.githubusercontent.com/Github-Username/Otaku-Vault-Data/master/images/xiao-yan-btth.png](https://raw.githubusercontent.com/Github-Username/Otaku-Vault-Data/master/images/xiao-yan-btth.png)
+>
+> ##### 🚀 How it Works
+>
+> When you upload images to your repository, GitHub provides two types of links. To display images in your **Flutter** or **Vue** app, you must use the **Raw** version to bypass the GitHub website UI.
+>
+> - **Standard (Web UI)**: https://github.com/.../blob/master/images/medusa.png
+> - **Raw (Direct File)**: https://raw.githubusercontent.com/.../master/images/medusa.png
+>
+> ##### 🔗 The Link Architecture
+> The "Cheat Code" is a simple URL pattern:
+> `https://raw.githubusercontent.com/` + `[User]` + `/` + `[Repo]` + `/` + `[Branch]` + `/` + `[Path]`
+
 ### JSON Data Structure - Example
 
 ```json
