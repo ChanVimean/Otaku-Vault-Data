@@ -372,30 +372,32 @@
     "status": "Available",
     "release_date": "2025-07-04",
     "images": [
-      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/fig-sxf-003-yor-forger.png"
     ],
     "tags": ["waifu", "assassin", "dual-pose"]
   },
   {
-    "_id": "set-ss-003",
+    "_id": "fig-ds-001",
     "id": 18,
-    "name": "Swallowed Star: Nine Realms Weapon Set",
-    "description": "Includes metal mini-replicas of Luo Feng’s flying blades and the soaring shuttle. Comes in a velvet-lined display box.",
-    "origin_type": ["Donghua"],
-    "series_title": "Swallowed Star",
-    "characters": ["Luo Feng"],
-    "category": ["Merch", "Weapon Replicas"],
-    "manufacturer": ["Mowan Technology"],
-    "price": 95.0,
+    "name": "Zenitsu Agatsuma: Thunder Breathing Sixth Form",
+    "description": "Capture the lightning-fast intensity of Zenitsu's Godspeed strike. This 2026 'Infinity Castle' edition features massive, translucent yellow lightning effects made of high-grade clear PVC, illuminating the base as Zenitsu prepares his 'Hekireki Issen'.",
+    "origin_type": ["Anime"],
+    "is_bundle": false,
+    "series_title": "Demon Slayer: Kimetsu no Yaiba",
+    "characters": ["Zenitsu Agatsuma"],
+    "category": ["Figure", "Scale Figure"],
+    "manufacturer": ["Aniplex", "Bandai Spirits"],
+    "price": 245.0,
     "currency": "USD",
-    "scale": "1/10",
-    "material": ["Stainless Steel"],
-    "status": "Available",
-    "release_date": "2024-09-10",
+    "scale": "1/7",
+    "material": ["PVC", "Transparent ABS"],
+    "status": "Pre-order",
+    "release_date": "2026-11-15",
     "images": [
-      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/fig-ds-001-zenitsu.png",
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/fig-ds-001-zenitsu-2.png"
     ],
-    "tags": ["weapons", "metal", "swallowed-star"]
+    "tags": ["thunder-breathing", "shonen", "infinity-castle", "lightning"]
   },
   {
     "_id": "fig-jjk-003",
@@ -414,29 +416,31 @@
     "status": "Available",
     "release_date": "2024-05-18",
     "images": [
-      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/fig-jjk-003-nobara-kugisaki.png"
     ],
     "tags": ["resonance", "shonen", "nobara"]
   },
   {
-    "_id": "fig-sl-002",
+    "_id": "fig-opm-001",
     "id": 20,
-    "name": "Xiao Wu: 100,000 Year Spirit Ring Edition",
-    "description": "The Soft-Boned Demon Rabbit in her most powerful form. Features translucent pink spirit energy effects and a rabbit-motif base.",
-    "origin_type": ["Donghua"],
-    "series_title": "Soul Land",
-    "characters": ["Xiao Wu"],
-    "category": ["Figure"],
-    "manufacturer": ["Myethos"],
-    "price": 195.0,
+    "name": "Saitama: Serious Punch (God-Threat Ver.)",
+    "description": "The Hero for Fun at his absolute peak. This 2026 'Cosmic Garou Arc' edition captures the moment of the Serious Punch. Features a massive shockwave base made of smoke-effect resin and an interchangeable 'bored' head sculpt for classic displays.",
+    "origin_type": ["Anime"],
+    "is_bundle": false,
+    "series_title": "One-Punch Man",
+    "characters": ["Saitama"],
+    "category": ["Figure", "Statue"],
+    "manufacturer": ["Tsume Art", "Bandai Spirits"],
+    "price": 499.0,
     "currency": "USD",
-    "scale": "1/7",
-    "material": ["PVC", "ABS"],
+    "scale": "1/6",
+    "material": ["PVC", "Polystone", "Resin"],
     "status": "Available",
-    "release_date": "2025-02-14",
+    "release_date": "2025-12-20",
     "images": [
-      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/fig-opm-001-saitama.png",
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/fig-opm-001-saitama-2.png"
     ],
-    "tags": ["soul-land", "waifu", "bunny"]
+    "tags": ["one-punch-man", "strongest", "hero", "shonen"]
   }
 ]
