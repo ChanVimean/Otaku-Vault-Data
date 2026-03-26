@@ -6,7 +6,7 @@ Welcome to the official data repository for **Otaku Vault (御宅宝库)**. This
 
 ## 🚀 Quick Access
 
-You can fetch the latest data directly using the GitHub Raw URL: [https://chanvimean.github.io/Otaku-Vault-Data/index.json]https://chanvimean.github.io/Otaku-Vault-Data/index.json)
+You can fetch the latest data directly using the GitHub Raw URL: [https://chanvimean.github.io/Otaku-Vault-Data/index.json](https://chanvimean.github.io/Otaku-Vault-Data/index.json)
 
 ---
 
