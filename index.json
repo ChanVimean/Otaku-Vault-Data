@@ -40,7 +40,9 @@
     "status": "Available",
     "release_date": "2025-09-20",
     "images": [
-      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/set-sxf-001-loid-forger.png",
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/set-sxf-001-yor-forger.png",
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/set-sxf-001-anya-forger.png"
     ],
     "tags": ["family", "spy", "bundle-deal"]
   },
@@ -62,9 +64,9 @@
     "status": "Available",
     "release_date": "2024-08-05",
     "images": [
-      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/",
-      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/",
-      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/set-jjk-001-yuji.png",
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/set-jjk-001-megumi.png",
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/set-jjk-001-nobara.png"
     ],
     "tags": ["tokyo-jujutsu-high", "shonen", "trio"]
   },
