@@ -25,21 +25,22 @@ The [`index.json`](index.json) file contains an array of product objects. Below 
 | No. | Field            | Data Type | ENUM (Optional)                                 | Value Example                         |
 | :-- | :--------------- | :-------- | :---------------------------------------------- | :------------------------------------ |
 | 1   | **\_id**         | `String`  | Unique ID                                       | "fig-001"                             |
-| 1   | **id**           | `Int`     | Auto Increment                                  | 1                                     |
-| 2   | **name**         | `String`  | -                                               | "Wei Wuxian: Yi Ling Lao Zu Ver."     |
-| 3   | **origin_type**  | `String`  | ['Anime', 'Donghua', 'Manga', 'Novel', 'Comic'] | "Donghua"                             |
-| 4   | **series_title** | `String`  | -                                               | "The Untamed (Mo Dao Zu Shi)"         |
-| 5   | **characters**   | `Array`   | -                                               | ["Wei Wuxian"]                        |
-| 6   | **category**     | `Array`   | ['Figure', 'Manga', 'Novel', 'Comic]            | ["Figure"]                            |
-| 7   | **manufacturer** | `Array`   | -                                               | ["Good Smile Company"]                |
-| 8   | **price**        | `Double`  | -                                               | 185.99                                |
-| 9   | **currency**     | `String`  | -                                               | "USD"                                 |
-| 10  | **scale**        | `String`  | -                                               | "1/8"                                 |
-| 11  | **material**     | `Array`   | -                                               | ["PVC & ABS"]                         |
-| 12  | **status**       | `String`  | ['Unavailable', 'Pre-order', 'Available]        | "Pre-order"                           |
-| 13  | **release_date** | `Date`    | ISO Date (YYYY-MM-DD)                           | "2026-05-15"                          |
-| 14  | **images**       | `Array`   | -                                               | ["https://...", "https://..."]        |
-| 15  | **tags**         | `Array`   | -                                               | ["cultivation", "fantasy", "limited"] |
+| 2   | **id**           | `Int`     | Auto Increment                                  | 1                                     |
+| 3   | **name**         | `String`  | -                                               | "Wei Wuxian: Yi Ling Lao Zu Ver."     |
+| 4   | **description**  | `String`  | -                                               | ""                                    |
+| 5   | **origin_type**  | `String`  | ['Anime', 'Donghua', 'Manga', 'Novel', 'Comic'] | "Donghua"                             |
+| 6   | **series_title** | `String`  | -                                               | "The Untamed (Mo Dao Zu Shi)"         |
+| 7   | **characters**   | `Array`   | -                                               | ["Wei Wuxian"]                        |
+| 8   | **category**     | `Array`   | ['Figure', 'Manga', 'Novel', 'Comic]            | ["Figure"]                            |
+| 9   | **manufacturer** | `Array`   | -                                               | ["Good Smile Company"]                |
+| 10  | **price**        | `Double`  | -                                               | 185.99                                |
+| 11  | **currency**     | `String`  | -                                               | "USD"                                 |
+| 12  | **scale**        | `String`  | -                                               | "1/8"                                 |
+| 13  | **material**     | `Array`   | -                                               | ["PVC & ABS"]                         |
+| 14  | **status**       | `String`  | ['Unavailable', 'Pre-order', 'Available]        | "Pre-order"                           |
+| 15  | **release_date** | `Date`    | ISO Date (YYYY-MM-DD)                           | "2026-05-15"                          |
+| 16  | **images**       | `Array`   | -                                               | ["https://...", "https://..."]        |
+| 17  | **tags**         | `Array`   | -                                               | ["cultivation", "fantasy", "limited"] |
 
 <br>
 
@@ -59,6 +60,7 @@ The [`index.json`](index.json) file contains an array of product objects. Below 
 > - **Raw (Direct File)**: https://raw.githubusercontent.com/.../master/images/medusa.png
 >
 > ##### 🔗 The Link Architecture
+>
 > The "Cheat Code" is a simple URL pattern:
 > `https://raw.githubusercontent.com/` + `[User]` + `/` + `[Repo]` + `/` + `[Branch]` + `/` + `[Path]`
 
