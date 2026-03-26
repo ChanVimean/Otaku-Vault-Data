@@ -17,7 +17,7 @@
     "release_date": "2026-11-11",
     "images": [
       "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/set-btth-001-xiao-yan.png",
-    "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/set-btth-001-medusa.png"
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/set-btth-001-medusa.png"
     ],
     "tags": ["marriage-arc", "xianxia", "grail"]
   },
@@ -217,7 +217,7 @@
     "status": "Available",
     "release_date": "2025-08-15",
     "images": [
-      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/fig-btth-002-yun-yun.png"
     ],
     "tags": ["misty-cloud", "waifu", "btth"]
   },
@@ -229,7 +229,7 @@
     "origin_type": ["Donghua"],
     "series_title": "Perfect World",
     "characters": ["Shi Hao", "Huo Ling'er"],
-    "category": ["Figure", "Miniature"],
+    "category": ["Figure"],
     "manufacturer": ["Bilibili Goods"],
     "price": 85.0,
     "currency": "USD",
@@ -238,8 +238,8 @@
     "status": "Pre-order",
     "release_date": "2026-04-10",
     "images": [
-      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/",
-      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/set-pw-001-shi-hao.png",
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/set-pw-001-huo-ling.png"
     ],
     "tags": ["wasteland", "childhood", "funny"]
   },
@@ -260,7 +260,8 @@
     "status": "Available",
     "release_date": "2024-02-14",
     "images": [
-      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/fig-sxf-002-anya-forger.png",
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/fig-sxf-002-anya-forger-2.png"
     ],
     "tags": ["meme", "anya", "cute"]
   },
@@ -280,7 +281,7 @@
     "status": "Unavailable",
     "release_date": "2025-06-01",
     "images": [
-      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/fig-ri-001-wang-lin.png"
     ],
     "tags": ["dark-xianxia", "slaughter", "cultivation"]
   },
@@ -301,52 +302,58 @@
     "status": "Available",
     "release_date": "2025-03-25",
     "images": [
-      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/",
-      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/set-jjk-002-yuji-itadori.png",
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/set-jjk-002-yuji-itadori-2.png",
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/set-jjk-002-ryomen-sukuna.png",
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/set-jjk-002-ryomen-sukuna-2.png"
     ],
     "tags": ["sukuna", "curse", "shonen"]
   },
   {
-    "_id": "fig-btth-003",
+    "_id": "fig-btth-004",
     "id": 15,
-    "name": "Nalan Yanran: 3-Year Agreement Duel",
-    "description": "The proud young mistress of the Misty Cloud Sect. Features her signature sword and a wind-effect base that connects to the Xiao Yan figure.",
+    "name": "Queen Medusa: San Nian Zhi Yue Ver.",
+    "description": "Inspired by the climactic Three-Year Agreement arc. Medusa is depicted in her regal red and gold gown with flowing black hair. The base features a stylized stone pillar, capturing her commanding presence during the Misty Cloud Sect battle.",
     "origin_type": ["Donghua"],
+    "is_bundle": false,
     "series_title": "Battle Through the Heavens",
-    "characters": ["Nalan Yanran"],
-    "category": ["Figure"],
-    "manufacturer": ["LingYun Studio"],
-    "price": 310.0,
+    "characters": ["Queen Medusa"],
+    "category": ["Figure", "Scale Figure"],
+    "manufacturer": ["Yuewen Haowu"],
+    "price": 189.99,
     "currency": "USD",
-    "scale": "1/6",
+    "scale": "1/10",
     "material": ["PVC", "ABS"],
     "status": "Available",
-    "release_date": "2025-12-15",
+    "release_date": "2024-10-31",
     "images": [
-      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/medusa-three-year-agreement.png"
     ],
-    "tags": ["rival", "sword", "btth"]
+    "tags": ["queen", "waifu", "btth", "snake-tribe"]
   },
   {
-    "_id": "merch-tos-002",
+    "_id": "fig-tos-004",
     "id": 16,
-    "name": "Divine Throne of Eternity: Desktop Replica",
-    "description": "A high-detail metal replica of the legendary throne. Features a built-in wireless charger for your phone at the base.",
+    "name": "Sheng Cai'er: Divine Awakening (White Dress Ver.)",
+    "description": "The Saint Daughter of the Assassin Temple in her ethereal white 'Divine Awakening' attire. This premium figure captures Cai'er in her sensory-awakened state, featuring a crystalline 'reincarnation scythe' and a base made of glowing spirit-lotus petals.",
     "origin_type": ["Donghua"],
+    "is_bundle": false,
     "series_title": "Throne of Seal",
-    "characters": ["Long Haochen"],
-    "category": ["Merch", "Electronics"],
-    "manufacturer": ["Tencent Merch"],
-    "price": 120.0,
+    "characters": ["Sheng Cai'er"],
+    "category": ["Figure", "Statue"],
+    "manufacturer": ["LingYun Studio"],
+    "price": 409.99,
     "currency": "USD",
-    "scale": "1/12",
-    "material": ["Zinc Alloy", "Electronics"],
+    "scale": "1/4",
+    "material": ["Resin", "PU", "LED Components"],
     "status": "Pre-order",
-    "release_date": "2026-08-30",
+    "release_date": "2026-12-20",
     "images": [
-      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/fig-tos-004-sheng-caier.png",
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/fig-tos-004-sheng-caier-2.png",
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/fig-tos-004-sheng-caier-3.png"
     ],
-    "tags": ["throne", "useful", "collector"]
+    "tags": ["assassin", "saint-daughter", "divine-awakening", "throne-of-seal"]
   },
   {
     "_id": "fig-sxf-003",
