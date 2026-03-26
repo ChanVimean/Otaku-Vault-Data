@@ -17,8 +17,8 @@
     "status": "Pre-order",
     "release_date": "2026-11-11",
     "images": [
-      "/images/set-btth-001-xiao-yan.png",
-      "/images/set-btth-001-medusa.png"
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/main/images/set-btth-001-xiao-yan.png",
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/main/images/set-btth-001-medusa.png"
     ],
     "tags": ["marriage-arc", "xianxia", "grail"]
   },
