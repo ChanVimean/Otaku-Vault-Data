@@ -24,7 +24,8 @@ The [`index.json`](index.json) file contains an array of product objects. Below 
 
 | No. | Field            | Data Type | ENUM (Optional)                                 | Value Example                         |
 | :-- | :--------------- | :-------- | :---------------------------------------------- | :------------------------------------ |
-| 1   | **id**           | `Int`     | Unique ID                                       | 001                                   |
+| 1   | **\_id**         | `String`  | Unique ID                                       | "fig-001"                             |
+| 1   | **id**           | `Int`     | Auto Increment                                  | 1                                     |
 | 2   | **name**         | `String`  | -                                               | "Wei Wuxian: Yi Ling Lao Zu Ver."     |
 | 3   | **origin_type**  | `String`  | ['Anime', 'Donghua', 'Manga', 'Novel', 'Comic'] | "Donghua"                             |
 | 4   | **series_title** | `String`  | -                                               | "The Untamed (Mo Dao Zu Shi)"         |
@@ -46,7 +47,8 @@ The [`index.json`](index.json) file contains an array of product objects. Below 
 
 ```json
 {
-  "id": "fig-001",
+  "_id": "fig-001",
+  "id": 1,
   "name": "Wei Wuxian: Yi Ling Lao Zu Ver.",
   "origin_type": ["Donghua"],
   "series_title": "The Untamed (Mo Dao Zu Shi)",
