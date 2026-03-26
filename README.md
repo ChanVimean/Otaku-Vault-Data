@@ -71,6 +71,7 @@ The [`index.json`](index.json) file contains an array of product objects. Below 
   "_id": "fig-001",
   "id": 1,
   "name": "Wei Wuxian: Yi Ling Lao Zu Ver.",
+  "description": "",
   "origin_type": ["Donghua"],
   "series_title": "The Untamed (Mo Dao Zu Shi)",
   "characters": ["Wei Wuxian"],
