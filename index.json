@@ -42,7 +42,8 @@
     "images": [
       "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/set-sxf-001-loid-forger.png",
       "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/set-sxf-001-yor-forger.png",
-      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/set-sxf-001-anya-forger.png"
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/set-sxf-001-anya-forger.png",
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/set-sxf-001-bundle.png"
     ],
     "tags": ["family", "spy", "bundle-deal"]
   },
@@ -73,12 +74,12 @@
   {
     "_id": "set-ss-001",
     "id": 4,
-    "name": "Swallowed Star: Luo Feng & Babata AI Bundle",
-    "description": "Advance your cultivation with the successor of the Yunmo Planet. This bundle features the Luo Feng 1/6 scale figure and a voice-activated Babata hologram lamp.",
+    "name": "Swallowed Star: Luo Feng & Xu Xin Couple Bundle",
+    "description": "Advance your cultivation with the successor of the Yunmo Planet. This bundle features the Luo Feng 1/6 scale figure and his beloved wife Xu Xin.",
     "origin_type": ["Donghua"],
     "is_bundle": true,
     "series_title": "Swallowed Star",
-    "characters": ["Luo Feng", "Babata"],
+    "characters": ["Luo Feng", "Xu Xin"],
     "category": ["Figure", "Electronics", "Lifestyle"],
     "manufacturer": ["Mowan Technology"],
     "price": 645.0,
@@ -88,10 +89,10 @@
     "status": "Pre-order",
     "release_date": "2026-02-14",
     "images": [
-      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/",
-      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/set-ss-001-luo-feng.png",
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/set-ss-001-xu-xin.png"
     ],
-    "tags": ["sci-fi", "ai-assistant", "cultivator"]
+    "tags": ["sci-fi", "romance", "cultivator", "family"]
   },
   {
     "_id": "set-tos-001",
@@ -111,8 +112,8 @@
     "status": "Pre-order",
     "release_date": "2026-07-25",
     "images": [
-      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/",
-      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/set-tos-001-long-haochen.png",
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/set-tos-001-sheng-caier.png"
     ],
     "tags": ["knight", "assassin", "romance"]
   },
@@ -134,7 +135,7 @@
     "status": "Available",
     "release_date": "2025-01-10",
     "images": [
-      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/fig-jjk-002-satoru-gojo.png"
     ],
     "tags": ["strongest", "domain", "shonen"]
   },
@@ -156,8 +157,8 @@
     "status": "Pre-order",
     "release_date": "2026-12-01",
     "images": [
-      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/",
-      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/"
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/set-sl-001-tang-san.png",
+      "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/set-sl-001-xia-wu.png"
     ],
     "tags": ["soul-land", "tang-san", "shrek-seven"]
   },
