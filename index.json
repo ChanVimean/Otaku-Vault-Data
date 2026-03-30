@@ -39,11 +39,11 @@
     "material": ["PVC", "ABS"],
     "status": "Available",
     "release_date": "2025-08-10",
-    "thumbnail": [
+    "thumbnail": "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/fig-jjk-002-0.png",
+    "images": [
       "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/fig-jjk-002-1.png",
       "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/fig-jjk-002-2.png"
     ],
-    "images": "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/fig-jjk-002-0.png",
     "tags": ["strongest", "jjk", "curse"]
   },
   {
