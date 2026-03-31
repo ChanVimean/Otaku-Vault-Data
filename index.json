@@ -358,8 +358,8 @@
     "material": ["Paper", "Cardboard"],
     "status": "Available",
     "release_date": "2024-10-15",
-    "images": "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/book-csm-016-0.png",
-    "thumbnail": [
+    "thumbnail": "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/book-csm-016-0.png",
+    "images": [
       "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/book-csm-016-1.png"
     ],
     "tags": ["public-safety", "denji", "manga-set", "shonen"]
@@ -380,8 +380,8 @@
     "material": ["Premium Paper", "Metallic Foil"],
     "status": "Available",
     "release_date": "2024-05-15",
-    "images": "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/book-kn8-017-0.png",
-    "thumbnail": [
+    "thumbnail": "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/book-kn8-017-0.png",
+    "images": [
       "https://raw.githubusercontent.com/ChanVimean/Otaku-Vault-Data/master/images/book-kn8-017-1.png"
     ],
     "tags": ["kaiju", "action", "defense-force", "manga"]
